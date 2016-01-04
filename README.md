@@ -3,7 +3,7 @@
 1. Здесь [мое резюме](http://jobs.tut.by/resume/69a58361ff02a111a30039ed1f794e66434f43)
 
 2. Что касается знаний, то сейчас заканчиваю большой [курс по обработке данных с помощью R](https://www.coursera.org/specializations/jhudatascience)
-на текущий момент закончил 6 этапов из 9.  
+на текущий момент закончил 7 этапов из 9.  
 Прикрепляю для примера пару выполненных мной отчетов:  
 2.1. прогнозирование продаж мороженного в зависимости от погоды
 см. [ветка на гитхаб](https://github.com/Grag2015/ice-cream/tree/master/9_Weather) (см. обзорный файл [README](https://github.com/Grag2015/ice-cream/blob/master/9_Weather/README.md) и 2 основных отчета [Подготовка данных](https://github.com/Grag2015/ice-cream/blob/master/9_Weather/Preproc-weather.md) и [Анализ данных](https://github.com/Grag2015/ice-cream/blob/master/9_Weather/Analys_Sales_Weather_TOP.md))  
