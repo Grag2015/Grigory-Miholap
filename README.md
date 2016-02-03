@@ -3,24 +3,24 @@
 **1. Резюме**  
 Здесь [мое резюме](http://jobs.tut.by/resume/69a58361ff02a111a30039ed1f794e66434f43)
 
-**2. Опыт анализа данных**
-Выполненные тестовые задания:
-Задание 1. [Прогнозирование эффективности каналов привлечения пользователей](http://rpubs.com/Grag/advert-channels)
-Задание 2. [Анализ связи между количеством покупок на уровне, сложностью и оттоком.](http://rpubs.com/Grag/rel-slozn-ottok-pokupki)
-Задание 3. [Анализ результатов А/Б-тестирования](http://rpubs.com/Grag/ab-test)
-Задание 4. [Анализ жалобы от пассажиров на плохую работу транспорта](http://rpubs.com/Grag/Task_2_Minsktrans)
+**2. Опыт анализа данных**  
+Выполненные тестовые задания:  
+Задание 1. [Прогнозирование эффективности каналов привлечения пользователей](http://rpubs.com/Grag/advert-channels)  
+Задание 2. [Анализ связи между количеством покупок на уровне, сложностью и оттоком.](http://rpubs.com/Grag/rel-slozn-ottok-pokupki)  
+Задание 3. [Анализ результатов А/Б-тестирования](http://rpubs.com/Grag/ab-test)  
+Задание 4. [Анализ жалобы от пассажиров на плохую работу транспорта](http://rpubs.com/Grag/Task_2_Minsktrans)  
 
-Курсы:
-Курс 1.  [обработка данных с помощью R](https://www.coursera.org/specializations/jhudatascience)
+Курсы:  
+Курс 1.  [обработка данных с помощью R](https://www.coursera.org/specializations/jhudatascience)  
 Прикрепляю для примера несколько выполненных мной отчетов:  
 а) прогнозирование продаж мороженного в зависимости от погоды
-см. [Подготовка данных](https://github.com/Grag2015/ice-cream/blob/master/9_Weather/Preproc-weather.md) и [Анализ данных](https://github.com/Grag2015/ice-cream/blob/master/9_Weather/Analys_Sales_Weather_TOP.md))  
+см. [Подготовка данных](https://github.com/Grag2015/ice-cream/blob/master/9_Weather/Preproc-weather.md) и [Анализ данных](https://github.com/Grag2015/ice-cream/blob/master/9_Weather/Analys_Sales_Weather_TOP.md))   
 б) зачетный проект по курсу "воспроизводимые исследования" [ссылка](https://github.com/Grag2015/Coursera/blob/master/4_Reproducible%20Research/RepData_PeerAssessment2/StormData_analysis.md)  
-в) зачетный проект по курсу "статистические выводы" [часть1](https://github.com/Grag2015/Coursera/blob/master/5_Statistical%20Inference/Assessment1_part1.md) и [часть2](https://github.com/Grag2015/Coursera/blob/master/5_Statistical%20Inference/Assessment1_part2.md)  
-Курс 2. Основы статистики [сертификат](https://stepic.org/certificate/121f708b0704c6aa633a4725459bb867c3dad996.pdf)
-Курс 3. Статистическая обработки данных с помощью R [сертификат](https://stepic.org/certificate/35e817e40802f50e366699ead6981bbacedf26b9.pdf)
+в) зачетный проект по курсу "статистические выводы"   [часть1](https://github.com/Grag2015/Coursera/blob/master/5_Statistical%20Inference/Assessment1_part1.md) и [часть2](https://github.com/Grag2015/Coursera/blob/master/5_Statistical%20Inference/Assessment1_part2.md)  
+Курс 2. Основы статистики [сертификат](https://stepic.org/certificate/121f708b0704c6aa633a4725459bb867c3dad996.pdf)  
+Курс 3. Статистическая обработки данных с помощью R [сертификат](https://stepic.org/certificate/35e817e40802f50e366699ead6981bbacedf26b9.pdf)  
 
-3. что касается английского, то на данный момент посещаю курсы Белхарда, уровень Preintermediate должны закончить 15/02/2016.
+3. что касается английского, то на данный момент посещаю курсы Белхарда, уровень Preintermediate должны закончить 15/02/2016.  
 
 4. практический опыт связанный с обработкой данных:   
 
@@ -38,7 +38,7 @@
 типа страниц на уровне 70%. Однако для практического использования этого
 результата оказалось недостаточно.   
 
-4.3. Есть опыт разработки алгоритмов оптимизации.
+4.3. Есть опыт разработки алгоритмов оптимизации.  
 Разработал математический алгоритм для решения задачи линейного раскроя материалов на множестве целых чисел. Нашел алгоритм линейного раскроя материалов Канторовича Л.В. для вещественных чисел, адаптировал
 его для целочисленных решений добавив алгоритм решения классической задачи о рюкзаке. Далеее этот алгоритм был полностью реализован и отлажен мной в пакете Mathematics, и переписан программистом на С++. В результате внедрения отходы раскроя снизились с 5-7% до 2-3%.  
 
