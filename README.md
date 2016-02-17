@@ -4,7 +4,7 @@
 Здесь [мое резюме](http://jobs.tut.by/resume/69a58361ff02a111a30039ed1f794e66434f43)
 
 **2. Английский**  
-Preintermediate (B1) - [сертификат](https://yadi.sk/i/CZigBEAjoy9f6)
+Preintermediate (B1) - [сертификат](https://yadi.sk/i/CZigBEAjoy9f6)  
 на данный момент посещаю курсы Белхарда, уровень Intermediate.  
 
 **3. Опыт анализа данных**  
