@@ -9,9 +9,9 @@ Pre-Intermediate (B1) - [сертификат](https://yadi.sk/i/CZigBEAjoy9f6)
 
 **3. Опыт анализа данных**  
 Выполненные тестовые задания:  
-Задание 1. [Прогнозирование эффективности каналов привлечения пользователей](http://rpubs.com/Grag/advert-channels)  
-Задание 2. [Анализ связи между количеством покупок на уровне, сложностью и оттоком.](http://rpubs.com/Grag/rel-slozn-ottok-pokupki)  
-Задание 3. [Анализ результатов А/Б-тестирования](http://rpubs.com/Grag/ab-test)  
+Задание 1. [Анализ связи между количеством покупок на уровне, сложностью и оттоком.](http://rpubs.com/Grag/rel-slozn-ottok-pokupki)  
+Задание 2. [Анализ результатов А/Б-тестирования](http://htmlpreview.github.io/?https://github.com/Grag2015/testInfotech/blob/master/Task_1_match-3.html)  
+Задание 3. [Прогнозирование эффективности каналов привлечения пользователей](http://rpubs.com/Grag/advert-channels)  
 Задание 4. [Анализ жалобы от пассажиров на плохую работу транспорта](http://rpubs.com/Grag/Task_2_Minsktrans)  
 
 Курсы:  
