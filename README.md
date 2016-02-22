@@ -21,7 +21,7 @@ Pre-Intermediate (B1) - [сертификат](https://yadi.sk/i/CZigBEAjoy9f6)
 Курс 1.  [обработка данных с помощью R](https://www.coursera.org/specializations/jhudatascience)  
 Прикрепляю для примера несколько выполненных мной отчетов:  
 а) прогнозирование продаж мороженного в зависимости от погоды
-см. [Подготовка данных](https://github.com/Grag2015/ice-cream/blob/master/9_Weather/Preproc-weather.md) и [Анализ данных](https://github.com/Grag2015/ice-cream/blob/master/9_Weather/Analys_Sales_Weather_TOP.md))   
+см. [Подготовка данных](https://github.com/Grag2015/ice-cream/blob/master/9_Weather/Preproc-weather.md) и [Анализ данных](https://github.com/Grag2015/ice-cream/blob/master/9_Weather/Analys_Sales_Weather_TOP.md)   
 б) зачетная работа по курсу "воспроизводимые исследования" [ссылка](https://github.com/Grag2015/Coursera/blob/master/4_Reproducible%20Research/RepData_PeerAssessment2/StormData_analysis.md)  
 в) зачетная работа по курсу "статистические выводы"   [часть1](https://github.com/Grag2015/Coursera/blob/master/5_Statistical%20Inference/Assessment1_part1.md) и [часть2](https://github.com/Grag2015/Coursera/blob/master/5_Statistical%20Inference/Assessment1_part2.md)  
 г) зачетная работа по курсу "машинное обучение" [ссылка](http://htmlpreview.github.io/?https://github.com/Grag2015/Coursera/blob/master/7_Machine%20Learning/Course_project2.html)  
