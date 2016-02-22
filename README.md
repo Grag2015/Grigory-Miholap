@@ -3,9 +3,11 @@
 **1. Резюме**  
 Здесь [мое резюме](http://jobs.tut.by/resume/69a58361ff02a111a30039ed1f794e66434f43)
 
-**2. Английский**  
+**2. Английский**
+
+на данный момент посещаю курсы Белхарда, уровень Intermediate.
 Pre-Intermediate (B1) - [сертификат](https://yadi.sk/i/CZigBEAjoy9f6)  
-на данный момент посещаю курсы Белхарда, уровень Intermediate.  
+  
 
 **3. Опыт анализа данных**  
 Выполненные тестовые задания:  
@@ -20,8 +22,9 @@ Pre-Intermediate (B1) - [сертификат](https://yadi.sk/i/CZigBEAjoy9f6)
 Прикрепляю для примера несколько выполненных мной отчетов:  
 а) прогнозирование продаж мороженного в зависимости от погоды
 см. [Подготовка данных](https://github.com/Grag2015/ice-cream/blob/master/9_Weather/Preproc-weather.md) и [Анализ данных](https://github.com/Grag2015/ice-cream/blob/master/9_Weather/Analys_Sales_Weather_TOP.md))   
-б) зачетный проект по курсу "воспроизводимые исследования" [ссылка](https://github.com/Grag2015/Coursera/blob/master/4_Reproducible%20Research/RepData_PeerAssessment2/StormData_analysis.md)  
-в) зачетный проект по курсу "статистические выводы"   [часть1](https://github.com/Grag2015/Coursera/blob/master/5_Statistical%20Inference/Assessment1_part1.md) и [часть2](https://github.com/Grag2015/Coursera/blob/master/5_Statistical%20Inference/Assessment1_part2.md)  
+б) зачетная работа по курсу "воспроизводимые исследования" [ссылка](https://github.com/Grag2015/Coursera/blob/master/4_Reproducible%20Research/RepData_PeerAssessment2/StormData_analysis.md)  
+в) зачетная работа по курсу "статистические выводы"   [часть1](https://github.com/Grag2015/Coursera/blob/master/5_Statistical%20Inference/Assessment1_part1.md) и [часть2](https://github.com/Grag2015/Coursera/blob/master/5_Statistical%20Inference/Assessment1_part2.md)  
+г) зачетная работа по курсу "машинное обучение" [ссылка](http://htmlpreview.github.io/?https://github.com/Grag2015/Coursera/blob/master/7_Machine%20Learning/Course_project2.html)
 Курс 2. Основы статистики [сертификат](https://stepic.org/certificate/121f708b0704c6aa633a4725459bb867c3dad996.pdf)  
 Курс 3. Статистическая обработки данных с помощью R [сертификат](https://stepic.org/certificate/35e817e40802f50e366699ead6981bbacedf26b9.pdf)  
 
