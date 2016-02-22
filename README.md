@@ -5,7 +5,7 @@
 
 **2. Английский**
 
-на данный момент посещаю курсы Белхарда, уровень Intermediate.
+на данный момент посещаю курсы Белхарда, уровень Intermediate.  
 Pre-Intermediate (B1) - [сертификат](https://yadi.sk/i/CZigBEAjoy9f6)  
   
 
