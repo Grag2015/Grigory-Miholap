@@ -10,6 +10,12 @@ Pre-Intermediate (B1) - [сертификат](https://yadi.sk/i/CZigBEAjoy9f6)
   
 
 **3. Опыт анализа данных**  
+Курсы:
+
+В настоящее время прохожу 2 онлайн-курса от Яндекса по машинному обучению
+[https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/)
+[https://www.coursera.org/learn/mathematics-and-python](https://www.coursera.org/learn/mathematics-and-python)
+
 Выполненные тестовые задания:  
 
 Задание 1. [Анализ связи между количеством покупок на уровне, сложностью и оттоком.](http://htmlpreview.github.io/?https://github.com/Grag2015/testInfotech/blob/master/Task_1_match-3.html)  
@@ -17,7 +23,7 @@ Pre-Intermediate (B1) - [сертификат](https://yadi.sk/i/CZigBEAjoy9f6)
 Задание 3. [Прогнозирование эффективности каналов привлечения пользователей](http://htmlpreview.github.io/?https://github.com/Grag2015/testInfotech/blob/master/Task_2_advert_channels.html)  
 Задание 4. [Анализ жалобы от пассажиров на плохую работу транспорта](http://htmlpreview.github.io/?https://github.com/Grag2015/testWG/blob/master/Task_2_Minsktrans.html)   
 
-Курсы:  
+Пройденные курсы:  
 Курс 1.  [обработка данных с помощью R](https://www.coursera.org/specializations/jhudatascience)  
 Прикрепляю для примера несколько выполненных мной отчетов:  
 а) прогнозирование продаж мороженного в зависимости от погоды
