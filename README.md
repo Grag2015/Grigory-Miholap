@@ -12,8 +12,8 @@ Pre-Intermediate (B1) - [сертификат](https://yadi.sk/i/CZigBEAjoy9f6)
 **3. Опыт анализа данных**  
 Курсы:
 
-В настоящее время прохожу 2 онлайн-курса от Яндекса по машинному обучению
-[https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/)
+В настоящее время прохожу 2 онлайн-курса от Яндекса по машинному обучению  
+[https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/)  
 [https://www.coursera.org/learn/mathematics-and-python](https://www.coursera.org/learn/mathematics-and-python)
 
 Выполненные тестовые задания:  
