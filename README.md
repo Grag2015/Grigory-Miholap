@@ -11,6 +11,9 @@ Pre-Intermediate (B1) - [сертификат](https://yadi.sk/i/CZigBEAjoy9f6)
 
 **3. Опыт анализа данных**  
 
+Проекты
+1) Оценка стоимости жилой недвижимости (вторичный рынок, Минск) [приложение](https://grag2015.shinyapps.io/property2/)
+
 Пройденные курсы:  
 Курс 1.  [обработка данных с помощью R](https://www.coursera.org/specializations/jhudatascience)  
 Прикрепляю для примера несколько выполненных мной отчетов:  
