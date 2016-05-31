@@ -11,18 +11,18 @@ Intermediate - на данный момент посещаю курсы Белх
 
 **3. Опыт анализа данных**  
 
-Проекты
+Выполненные работы:
 
 1) Оценка стоимости жилой недвижимости (вторичный рынок, Минск) [приложение](https://grag2015.shinyapps.io/property2/)
+2) прогнозирование продаж мороженного в зависимости от погоды
+см. [Подготовка данных](https://github.com/Grag2015/ice-cream/blob/master/9_Weather/Preproc-weather.md) и [Анализ данных](https://github.com/Grag2015/ice-cream/blob/master/9_Weather/Analys_Sales_Weather_TOP.md)   
 
 Пройденные курсы:  
 Курс 1.  [обработка данных с помощью R](https://www.coursera.org/specializations/jhudatascience)  
-Прикрепляю для примера несколько выполненных мной отчетов:  
-а) прогнозирование продаж мороженного в зависимости от погоды
-см. [Подготовка данных](https://github.com/Grag2015/ice-cream/blob/master/9_Weather/Preproc-weather.md) и [Анализ данных](https://github.com/Grag2015/ice-cream/blob/master/9_Weather/Analys_Sales_Weather_TOP.md)   
-б) зачетная работа по курсу "воспроизводимые исследования" [ссылка](https://github.com/Grag2015/Coursera/blob/master/4_Reproducible%20Research/RepData_PeerAssessment2/StormData_analysis.md)  
-в) зачетная работа по курсу "статистические выводы"   [часть1](https://github.com/Grag2015/Coursera/blob/master/5_Statistical%20Inference/Assessment1_part1.md) и [часть2](https://github.com/Grag2015/Coursera/blob/master/5_Statistical%20Inference/Assessment1_part2.md)  
-г) зачетная работа по курсу "машинное обучение" [ссылка](http://htmlpreview.github.io/?https://github.com/Grag2015/Coursera/blob/master/7_Machine%20Learning/Course_project2.html)  
+Прикрепляю для примера несколько выполненных мной отчетов:   
+а) зачетная работа по курсу "воспроизводимые исследования" [ссылка](https://github.com/Grag2015/Coursera/blob/master/4_Reproducible%20Research/RepData_PeerAssessment2/StormData_analysis.md)  
+б) зачетная работа по курсу "статистические выводы"   [часть1](https://github.com/Grag2015/Coursera/blob/master/5_Statistical%20Inference/Assessment1_part1.md) и [часть2](https://github.com/Grag2015/Coursera/blob/master/5_Statistical%20Inference/Assessment1_part2.md)  
+в) зачетная работа по курсу "машинное обучение" [ссылка](http://htmlpreview.github.io/?https://github.com/Grag2015/Coursera/blob/master/7_Machine%20Learning/Course_project2.html)  
 Курс 2. Основы статистики [сертификат](https://stepic.org/certificate/121f708b0704c6aa633a4725459bb867c3dad996.pdf)  
 Курс 3. Статистическая обработки данных с помощью R [сертификат](https://stepic.org/certificate/35e817e40802f50e366699ead6981bbacedf26b9.pdf)  
 
@@ -40,6 +40,7 @@ Intermediate - на данный момент посещаю курсы Белх
 
 Задание 5. [Анализ поведения пользователей в игре](http://htmlpreview.github.io/?https://github.com/Grag2015/test_Playrix/blob/master/playrix_test.html)
 
+**Дополнительно.**   
 **практический опыт связанный с анализом и обработкой данных:**   
 
 4.1. Следующий пример демонстрирует уровень владения языком программирования VBA и навыки работы с СУБД (проектирование реляционных БД, язык запросов SQL). задача: Проектирование и разработка приложения на базе MS ACCESS для автоматизации работы по кодированию данных мониторинга рекламы в печатных СМИ (задача приложения – хранить данные мониторинга рекламы, предоставлять пользователю интерфейс для работы с данными(внесение, удаления, редактирование), предоставлять администратору интерфейс для агрегации данных полученных от нескольких пользователей, проверка целостности и непротиворечивости данных); пример базы в формате ACCESS можно скачать по ссылке https://yadi.sk/d/5VxUhOwdiYXD9 Используя данный инструмент командой из 10 человек было оцифровано порядка 50 тыс. рекламных сообщений в печатных СМИ Беларуси. Результаты работы команды публиковались на тематических ресурсах, например. http://marketing.by/novosti-rynka/soglasno-issledovaniyu-monitoringovoy-kompanii-media-inteligence-obem-rynka-reklamy-v-pechatnykh-smi-v-2009-godu-sostavil-okolo-16-4-mln/  
