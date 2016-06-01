@@ -16,7 +16,7 @@ Intermediate - на данный момент посещаю курсы Белх
 1) Оценка стоимости жилой недвижимости (вторичный рынок, Минск) [приложение](https://grag2015.shinyapps.io/property2/)
 
 2) Прогнозирование продаж мороженного в зависимости от погоды
-см. [Подготовка данных](https://github.com/Grag2015/ice-cream/blob/master/9_Weather/Preproc-weather.md) и [Анализ данных](https://github.com/Grag2015/ice-cream/blob/master/9_Weather/Analys_Sales_Weather_TOP.md)   
+см. отчет [Анализ данных](https://github.com/Grag2015/ice-cream/blob/master/9_Weather/Analys_Sales_Weather_TOP.md)   
 
 Пройденные курсы:  
 Курс 1.  [обработка данных с помощью R](https://www.coursera.org/specializations/jhudatascience)  
