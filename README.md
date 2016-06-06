@@ -13,10 +13,12 @@ Intermediate - на данный момент посещаю курсы Белх
 
 Выполненные работы:
 
-1) Оценка стоимости жилой недвижимости (вторичный рынок, Минск) [приложение](https://grag2015.shinyapps.io/property2/)
+1) Построение линейной модели для оценки стоимости жилой недвижимости (вторичный рынок, Минск) [приложение](https://grag2015.shinyapps.io/property2/)
 
-2) Прогнозирование продаж мороженного в зависимости от погоды
-см. отчет [Анализ данных](https://github.com/Grag2015/ice-cream/blob/master/9_Weather/Analys_Sales_Weather_TOP.md)   
+2) Построение линейной модели для прогнозирования продаж мороженного в зависимости от погоды
+см. отчет [Анализ данных](https://github.com/Grag2015/ice-cream/blob/master/9_Weather/Analys_Sales_Weather_TOP.md) 
+
+3) Участие в соревнованиях по машинному обучению (machine learning) Kaggle [результаты](https://www.kaggle.com/grag2015/results)
 
 Пройденные курсы:  
 Курс 1.  [обработка данных с помощью R](https://www.coursera.org/specializations/jhudatascience)  
