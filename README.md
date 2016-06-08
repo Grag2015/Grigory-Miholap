@@ -34,7 +34,7 @@ Intermediate - на данный момент посещаю курсы Белх
 [https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/)  
 [https://www.coursera.org/learn/mathematics-and-python](https://www.coursera.org/learn/mathematics-and-python)
 
-Примеры выполненных заданий:  
+<a name="tasks">Примеры выполненных заданий:</a>
 
 Задание 1. [Анализ связи между количеством покупок на уровне, сложностью и оттоком.](http://htmlpreview.github.io/?https://github.com/Grag2015/testInfotech/blob/master/Task_1_match-3.html)  
 Задание 2. [Анализ результатов А/Б-тестирования](http://htmlpreview.github.io/?https://github.com/Grag2015/testInfotech/blob/master/Task_3_AB-test.html)  
