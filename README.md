@@ -20,6 +20,21 @@ Intermediate - на данный момент посещаю курсы Белх
 
 3) Участие в соревнованиях по машинному обучению (machine learning) Kaggle [результаты](https://www.kaggle.com/grag2015/results)
 
+<a name="tasks">Примеры выполненных заданий:</a>
+
+Задание 1. [Анализ связи между количеством покупок на уровне, сложностью и оттоком.](http://htmlpreview.github.io/?https://github.com/Grag2015/testInfotech/blob/master/Task_1_match-3.html)
+
+Задание 2. [Анализ результатов А/Б-тестирования](http://htmlpreview.github.io/?https://github.com/Grag2015/testInfotech/blob/master/Task_3_AB-test.html)
+
+Задание 3. [Прогнозирование эффективности каналов привлечения пользователей](http://htmlpreview.github.io/?https://github.com/Grag2015/testInfotech/blob/master/Task_2_advert_channels.html) 
+
+Задание 4. [Оценка эффективности онлайн-кампаний](https://docs.google.com/document/d/1Twr9FvAmL86bg5HaXOG8I2J-baGW0bSFzB3nrRpZbfw/edit#heading=h.yyiyyr6ssklo) 
+
+Задание 5. [Анализ жалобы от пассажиров на плохую работу транспорта](http://htmlpreview.github.io/?https://github.com/Grag2015/testWG/blob/master/Task_2_Minsktrans.html)
+
+Задание 6. [Анализ поведения пользователей в игре](http://htmlpreview.github.io/?https://github.com/Grag2015/test_Playrix/blob/master/playrix_test.html)
+
+
 Пройденные курсы:  
 Курс 1.  [обработка данных с помощью R](https://www.coursera.org/specializations/jhudatascience)  
 Прикрепляю для примера несколько выполненных мной отчетов:   
@@ -33,15 +48,6 @@ Intermediate - на данный момент посещаю курсы Белх
 В настоящее время прохожу 2 онлайн-курса от Яндекса по машинному обучению  
 [https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/)  
 [https://www.coursera.org/learn/mathematics-and-python](https://www.coursera.org/learn/mathematics-and-python)
-
-<a name="tasks">Примеры выполненных заданий:</a>
-
-Задание 1. [Анализ связи между количеством покупок на уровне, сложностью и оттоком.](http://htmlpreview.github.io/?https://github.com/Grag2015/testInfotech/blob/master/Task_1_match-3.html)  
-Задание 2. [Анализ результатов А/Б-тестирования](http://htmlpreview.github.io/?https://github.com/Grag2015/testInfotech/blob/master/Task_3_AB-test.html)  
-Задание 3. [Прогнозирование эффективности каналов привлечения пользователей](http://htmlpreview.github.io/?https://github.com/Grag2015/testInfotech/blob/master/Task_2_advert_channels.html)  
-Задание 4. [Анализ жалобы от пассажиров на плохую работу транспорта](http://htmlpreview.github.io/?https://github.com/Grag2015/testWG/blob/master/Task_2_Minsktrans.html)   
-
-Задание 5. [Анализ поведения пользователей в игре](http://htmlpreview.github.io/?https://github.com/Grag2015/test_Playrix/blob/master/playrix_test.html)
 
 **Дополнительно.**   
 **практический опыт связанный с анализом и обработкой данных:**   
